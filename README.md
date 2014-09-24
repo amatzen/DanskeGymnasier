@@ -1,4 +1,4 @@
-uddannelsessteder
+Uddannelsessteder
 =================
 
-Liste over danske gymnasier
+Liste over danske gymnasier. 
